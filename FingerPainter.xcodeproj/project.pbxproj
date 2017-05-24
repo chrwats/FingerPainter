@@ -97,6 +97,7 @@
 					838B80751ED5A5D100797E58 = {
 						CreatedOnToolsVersion = 8.3.2;
 						DevelopmentTeam = FFB9DM3JN9;
+						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
 				};
